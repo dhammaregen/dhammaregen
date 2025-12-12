@@ -13,6 +13,8 @@ order: 1
   padding: 25px;
   font-size: 20px;"
 ><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden diese Webseite jetzt unter <a href="https://dhammaregen.net/#/wiki/startseite">https://dhammaregen.net</a>.
+
+  Den Newsletter, Essays und mehr finden Sie jetzt auf „Mehr von Dhammaregen“: <a href="https://mehr.dhammaregen.net/">https://mehr.dhammaregen.net/</a>.
 </p>
 
 
